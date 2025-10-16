@@ -1,13 +1,20 @@
 # Projects
 
 Hi, I'm Jenson Goh, check out my  [LinkedIn](https://www.linkedin.com/in/jenson-goh-sc/)
- 
-Education
+
+**Professional Experience
+**
+**Education**
 | Degree | Major | Institution |
 |-----------|-----------|-----------|
 | Master of Engineering | Cybersecurity | Duke University |
-| Bachelors of Technology | Mechanical Engineering | National Universiyt of Singapore (NUS) |
+| Bachelors of Technology | Mechanical Engineering | National University of Singapore (NUS) |
 
+**Certifications**
+SANS 
+GNFA
 
-Certifications
-SANS GNFA
+Microsoft
+
+ISC2
+
