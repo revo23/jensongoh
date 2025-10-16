@@ -18,9 +18,9 @@ GNFA: [Verify](https://www.credly.com/badges/166561db-4cc6-4279-9543-3afd33ac507
 
 Comptia
 Security+: [Verify](https://www.credly.com/badges/3d2af7ef-6d6f-49e4-b3ad-c5b37592c2fb/public_url) | [Learn](https://www.comptia.org/en-us/certifications/security/) 
-Microsoft
-SC-200: [Verify]() | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
 
+Microsoft
+SC-200: [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ShuhChinGoh-7150/1E73FE56A0F58410?sharingId=BFA089227E0280D6) | [Learn](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
 
 ISC2
 CC: [Verify](https://www.credly.com/badges/e5ebb1da-988b-4b55-9134-0c8e221e1b88/public_url) | [Learn](https://www.isc2.org/certifications/cc) 
