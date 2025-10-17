@@ -30,6 +30,7 @@ CC: [Verify](https://www.credly.com/badges/e5ebb1da-988b-4b55-9134-0c8e221e1b88/
 
 - Canary Tokens in Bank Website
 - Sigma Rules in Splunk
+- Yara Rules in Splunk
 - Stingar Honeypot 
 
 
