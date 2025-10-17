@@ -1,6 +1,6 @@
 # Jenson Goh
 
-## H2 - Large Hi, I'm Jenson Goh, check out my  [LinkedIn](https://www.linkedin.com/in/jenson-goh-sc/)
+## Hi, I'm Jenson Goh, check out my  [LinkedIn](https://www.linkedin.com/in/jenson-goh-sc/)
 
 **Professional Experience**
 
