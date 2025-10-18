@@ -2,7 +2,12 @@
 
 
 **Professional Experience**
-
+| Position | Organization | Timeframe |
+|-----------|-----------|-----------|
+| Security Engineer | LGT Private Bank | Sep 2023 - Aug 2024 |
+| SOC Analyst | United Overseas Bank | Jul 2022 - Aug 2023 |
+| Cybersecurity Analyst and Researcher | Darktrace | Nov 2020 - Jul 2022 |
+| Satellite Operations Technologist | NUS Centre for Remote Imaging, Sensing and Processing | Nov 2018 - Nov 2020 |
 
 **Education**
 | Degree | Major | Institution |
