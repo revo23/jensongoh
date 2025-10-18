@@ -1,5 +1,11 @@
 # Hi, I'm Jenson Goh, check out my  [LinkedIn](https://www.linkedin.com/in/jenson-goh-sc/)
 
+**Cybersecurity Projects**
+
+- Canary Tokens in Bank Website
+- Sigma Rules in Splunk
+- Yara Rules in Splunk
+- Stingar Honeypot 
 
 **Professional Experience**
 | Position | Organization | Timeframe |
@@ -30,12 +36,7 @@ ISC2
 CC: [Verify](https://www.credly.com/badges/e5ebb1da-988b-4b55-9134-0c8e221e1b88/public_url) | [Learn](https://www.isc2.org/certifications/cc) 
 
 
-**Cybersecurity Projects**
 
-- Canary Tokens in Bank Website
-- Sigma Rules in Splunk
-- Yara Rules in Splunk
-- Stingar Honeypot 
 
 
 
