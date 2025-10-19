@@ -2,7 +2,7 @@
 
 **Cybersecurity Projects**
 
-- LSEG Interview Challenge
+- [LSEG Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)
 - Canary Tokens in Bank Website
 - Sigma Rules in Splunk
 - Yara Rules in Splunk
