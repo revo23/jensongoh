@@ -2,9 +2,11 @@
 
 **Cybersecurity Projects**
 
+- LSEG Interview Challenge
 - Canary Tokens in Bank Website
 - Sigma Rules in Splunk
 - Yara Rules in Splunk
+- Snort Rules in Splunk
 - Stingar Honeypot 
 
 **Professional Experience**
