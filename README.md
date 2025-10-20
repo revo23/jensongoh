@@ -7,7 +7,13 @@
 - Sigma Rules in Splunk
 - Yara Rules in Splunk
 - Snort Rules in Splunk
-- Stingar Honeypot 
+- Stingar Honeypot
+
+**Blog Posts**
+- Uncovering the Sysrv-Hello Crypto-Jacking Bonet, May 25, 2022  
+- Email Compromise To Mass Phishing Campaign, April 20, 2022  
+- Identifying PrivateLoader Network Threats, July 26, 2022  
+- Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022   
 
 **Professional Experience**
 | Position | Organization | Timeframe |
