@@ -12,10 +12,10 @@
 - Stingar Honeypot
 
 **Blog Posts**
-- Uncovering the Sysrv-Hello Crypto-Jacking Bonet, May 25, 2022  
-- Email Compromise To Mass Phishing Campaign, April 20, 2022  
-- Identifying PrivateLoader Network Threats, July 26, 2022  
-- Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022   
+- [Uncovering the Sysrv-Hello Crypto-Jacking Bonet, May 25, 2022](https://www.darktrace.com/blog/worm-like-propagation-of-sysrv-hello-crypto-jacking-botnet)  
+- [Email Compromise To Mass Phishing Campaign, April 20, 2022](https://www.darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis)  
+- [Identifying PrivateLoader Network Threats, July 26, 2022](https://www.darktrace.com/blog/privateloader-network-based-indicators-of-compromise)  
+- [Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022](https://www.darktrace.com/blog/modern-extortion-detecting-data-theft-from-the-cloud)   
 
 **Professional Experience**
 | Position | Organization | Timeframe |
