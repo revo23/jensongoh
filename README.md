@@ -9,7 +9,7 @@
 - Snort Rules in Splunk
 - Stingar Honeypot
 - [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)
-- [LSEG Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)
+- [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)
 
 **Blog Posts**
 - Uncovering the Sysrv-Hello Crypto-Jacking Bonet, May 25, 2022  
