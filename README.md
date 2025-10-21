@@ -7,9 +7,9 @@
 - [Sigma Rules in Splunk](https://github.com/revo23/Sigma-Rules-in-Splunk/blob/main/README.md)
 - [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)
 - [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)
-- Yara Rules in Splunk
-- Snort Rules in Splunk
-- Stingar Honeypot
+- Yara Rules in Splunk (in progress)
+- Snort Rules in Splunk (in progress)
+- Stingar Honeypot (in progress)
 
 **Blog Posts**
 - [Uncovering the Sysrv-Hello Crypto-Jacking Bonet, May 25, 2022](https://www.darktrace.com/blog/worm-like-propagation-of-sysrv-hello-crypto-jacking-botnet)  
