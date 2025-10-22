@@ -7,7 +7,7 @@
 - [Sigma Rules in Splunk](https://github.com/revo23/Sigma-Rules-in-Splunk/blob/main/README.md)
 - [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)
 - [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)
-- Yara Rules in Splunk (in progress)
+- Yara Rules in Splunk/Wazuh (in progress)
 - Snort Rules in Splunk (in progress)
 - Stingar Honeypot (in progress)
 
