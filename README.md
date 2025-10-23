@@ -16,7 +16,7 @@
   - **Situation**: While working in the MDR SOC, I was responsible for monitoring, documenting active compromises affecting customer environments and informing them.
   - **Task**: My task was to thoroughly document the incident, identify the attacker’s techniques, and provide customers (typically security engineers) with clear, actionable insights, along with technical proof of the product working well in detecting threats for POCs.
   - **Action**: During the investigation of the alert I did not just stop at determining true/false positive, but also going into Darktrace advanced search (NDR logs) to unveil the whole series/sequence of compromise via Cyber Kill Chain and MITRE ATT&CK in a blog post.
-  - **Result**: As one of the first few blog writers for the 'Inside the SOC series, it also demonstrated initiative — I wasn’t just closing alerts but in addition, providing value to marketing, sales and customers.
+  - **Result**: As one of the first few blog writers for the 'Inside the SOC' blog series, it also demonstrated initiative — I wasn’t just closing alerts but in addition, providing value to marketing, sales and customers.
 - [Email Compromise To Mass Phishing Campaign, April 20, 2022](https://www.darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis)  
 - [Identifying PrivateLoader Network Threats, July 26, 2022](https://www.darktrace.com/blog/privateloader-network-based-indicators-of-compromise)  
 - [Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022](https://www.darktrace.com/blog/modern-extortion-detecting-data-theft-from-the-cloud)   
