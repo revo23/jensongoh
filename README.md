@@ -12,7 +12,11 @@
 - STINGAR Honeypot (ongoing)
 
 **Blog Posts**
-- [Uncovering the Sysrv-Hello Crypto-Jacking Bonet, May 25, 2022](https://www.darktrace.com/blog/worm-like-propagation-of-sysrv-hello-crypto-jacking-botnet)  
+- [Uncovering the Sysrv-Hello Crypto-Jacking Bonet, May 25, 2022](https://www.darktrace.com/blog/worm-like-propagation-of-sysrv-hello-crypto-jacking-botnet)
+  - Situation: While working in the MDR SOC, I was responsible for monitoring, documenting active compromises affecting customer environments and informing them.
+  - Task: My task was to thoroughly document the incident, identify the attacker’s techniques, and provide customers (typically security engineers) with clear, actionable insights, along with technical proof of the product working well in detecting threats for POCs.
+  - Action: Turn the investigation of the compromise by not just stopping at the alert, but also going into advanced searched (NDR logs) to unveil the whole chain of compromise via Cyber Kill Chain and MITRE ATT&CK in a blog post.
+  - Result: As one of the first few blog writers for the 'Inside the SOC series, it also demonstrated initiative — I wasn’t just closing alerts but providing value to marketing, sales and customers.
 - [Email Compromise To Mass Phishing Campaign, April 20, 2022](https://www.darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis)  
 - [Identifying PrivateLoader Network Threats, July 26, 2022](https://www.darktrace.com/blog/privateloader-network-based-indicators-of-compromise)  
 - [Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022](https://www.darktrace.com/blog/modern-extortion-detecting-data-theft-from-the-cloud)   
