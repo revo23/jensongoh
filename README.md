@@ -17,9 +17,12 @@
   - **Task**: My task was to thoroughly document the incident, identify the attacker’s techniques, and provide customers (typically security engineers) with clear, actionable insights, along with technical proof of the product working well in detecting threats for POCs.
   - **Action**: During the investigation of the alert I did not just stop at determining true/false positive, but also going into Darktrace advanced search (NDR logs) to unveil the whole series/sequence of compromise via Cyber Kill Chain and MITRE ATT&CK in a blog post.
   - **Result**: As one of the first few blog writers for the 'Inside the SOC' blog series, it also demonstrated initiative and comfort operating in ambiguity — I wasn’t just closing alerts but in addition, providing value to marketing, sales and customers, enabling others.
-- [Email Compromise To Mass Phishing Campaign, April 20, 2022](https://www.darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis)  
-- [Identifying PrivateLoader Network Threats, July 26, 2022](https://www.darktrace.com/blog/privateloader-network-based-indicators-of-compromise)  
-- [Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022](https://www.darktrace.com/blog/modern-extortion-detecting-data-theft-from-the-cloud)   
+- [Email Compromise To Mass Phishing Campaign, April 20, 2022](https://www.darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis)
+  - Compromised account mass phishing more users internally
+- [Identifying PrivateLoader Network Threats, July 26, 2022](https://www.darktrace.com/blog/privateloader-network-based-indicators-of-compromise)
+  - Malware downloader, using lesser seen and interesting C2 technique Dead Drop Resolver (DDR)
+- [Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022](https://www.darktrace.com/blog/modern-extortion-detecting-data-theft-from-the-cloud)
+  - Cloud data stolen and sample posted onto extortion website for ransom
 
 **Professional Experience**
 | Position | Organization | Timeframe |
