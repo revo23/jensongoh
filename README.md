@@ -4,12 +4,12 @@
 
 
 
-- [Sigma Rules in Splunk](https://github.com/revo23/Sigma-Rules-in-Splunk/blob/main/README.md)
-- [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)
-- [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)
-- Detetion Engineering with Wazuh (ongoing)
-- Snort Rules in Splunk (ongoing)
-- STINGAR Honeypot (ongoing)
+- [Sigma Rules in Splunk](https://github.com/revo23/Sigma-Rules-in-Splunk/blob/main/README.md) - SIEM
+- [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website) - Tripwire
+- [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge) - IR + PCAP hex editing/file extraction
+- Detection Engineering with Wazuh (ongoing) - Endpoint
+- Snort Rules in Splunk (ongoing) - NIDS/IPS
+- STINGAR Honeypot (ongoing) - CTI
 
 **Blog Posts**
 - [Uncovering the Sysrv-Hello Crypto-Jacking Bonet, May 25, 2022](https://www.darktrace.com/blog/worm-like-propagation-of-sysrv-hello-crypto-jacking-botnet)
