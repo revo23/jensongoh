@@ -6,7 +6,7 @@
 
 - [Sigma Rules in Splunk](https://github.com/revo23/Sigma-Rules-in-Splunk/blob/main/README.md)  [SIEM]
 - [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)  [Tripwire]
-- [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)  [IR + PCAP hex editing/file extraction]
+- [REDACTED Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)  [IR + PCAP hex editing/file extraction]
 - Detection Engineering with Wazuh [Endpoint] (in progress)
 - Snort Rules in Splunk [NIDS/IPS] (in progress)
 - STINGAR Honeypot [CTI] (in progress)
