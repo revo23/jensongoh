@@ -8,7 +8,7 @@
 - [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)  [Tripwire]
 - [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)  [IR + PCAP hex editing/file extraction]
 - Detection Engineering with Wazuh [Endpoint] (in progress)
-- Snort Rules in Splunk [NIDS/IPS] (in progress)
+- Snort/Suricata [NIDS/IPS] (in progress)
 - STINGAR Honeypot [CTI] (in progress)
 
 **Blog Posts**
