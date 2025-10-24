@@ -20,7 +20,7 @@
 - [Email Compromise To Mass Phishing Campaign, April 20, 2022](https://www.darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis)
   - Compromised account mass phishing more users internally
 - [Identifying PrivateLoader Network Threats, July 26, 2022](https://www.darktrace.com/blog/privateloader-network-based-indicators-of-compromise)
-  - Malware downloader, using lesser seen and interesting C2 technique Dead Drop Resolver (DDR)
+  - Malware downloader, using unique and interesting C2 technique Dead Drop Resolver (DDR)
 - [Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022](https://www.darktrace.com/blog/modern-extortion-detecting-data-theft-from-the-cloud)
   - Cloud data stolen and sample posted onto extortion website for ransom
 
