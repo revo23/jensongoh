@@ -17,13 +17,13 @@
   - **Situation**: While working in the MDR SOC, I was responsible for monitoring, documenting active compromises affecting customer environments and informing them.
   - **Task**: My task was to thoroughly document the incident, identify the attacker’s techniques, and provide customers (typically security engineers) with clear, actionable insights, along with technical proof of the product working well in detecting threats for POCs.
   - **Action**: During the investigation of the alert I did not just stop at determining true/false positive, but also going into Darktrace advanced search (NDR logs) to unveil the whole series/sequence of compromise via Cyber Kill Chain and MITRE ATT&CK in a blog post.
-  - **Result**: As one of the first few blog writers for the 'Inside the SOC' blog series, it also demonstrated initiative and comfort operating in ambiguity — I wasn’t just closing alerts but in addition, providing value to marketing, sales and customers, enabling others. Top article in Google search result for this particular botnet variant (sysrv-hello).
+  - **Result**: As one of the first few blog writers for the 'Inside the SOC' blog series, it also demonstrated initiative and comfort operating in ambiguity — I wasn’t just closing alerts but in addition, providing value to marketing, sales and customers, enabling others. Top article in Google search result for this particular botnet variant (sysrv-hello), which uses victim's computer processing power to mine cryptocurrency.
 - [Email Compromise To Mass Phishing Campaign, April 20, 2022](https://www.darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis)
-  - Compromised account mass phishing more users internally
+  - Compromised account mass phishing more users internally.
 - [Identifying PrivateLoader Network Threats, July 26, 2022](https://www.darktrace.com/blog/privateloader-network-based-indicators-of-compromise)
-  - Malware downloader using unique and interesting C2 technique known as Dead Drop Resolver (DDR) and hex editing of PCAP to extract stolen data
+  - Malware downloader using unique and interesting C2 technique known as Dead Drop Resolver (DDR). Hex editing of PCAP done to extract and see type of stolen data.
 - [Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022](https://www.darktrace.com/blog/modern-extortion-detecting-data-theft-from-the-cloud)
-  - Cloud data stolen and  posted onto extortion website for ransom
+  - Cloud data stolen and  posted onto extortion website for ransom.
 
 **Professional Experience**
 | Position | Organization | Timeframe |
