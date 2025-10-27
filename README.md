@@ -19,7 +19,7 @@
   - **Action**: During the investigation of the alert I did not just stop at determining true/false positive, but also going into Darktrace advanced search (NDR logs) to unveil the whole series/sequence of compromise via Cyber Kill Chain and MITRE ATT&CK in a blog post.
   - **Result**: As one of the first few blog writers for the 'Inside the SOC' blog series, it also demonstrated initiative and comfort operating in ambiguity — I wasn’t just closing alerts but in addition, providing value to marketing, sales and customers, enabling others. Top article in Google search result for this particular botnet variant (sysrv-hello), which uses victim's computer processing power to mine cryptocurrency.
 - [Email Compromise To Mass Phishing Campaign, April 20, 2022](https://www.darktrace.com/blog/business-email-compromise-to-mass-phishing-campaign-attack-analysis)
-  - Compromised account mass phishing more users internally.
+  - Compromised account sending massive no. of phishing emails to more users internally.
 - [Identifying PrivateLoader Network Threats, July 26, 2022](https://www.darktrace.com/blog/privateloader-network-based-indicators-of-compromise)
   - Malware downloader using unique and interesting C2 technique known as Dead Drop Resolver (DDR). Hex editing of PCAP done to extract and see type of stolen data.
 - [Modern Extortion: Detecting Data Theft From the Cloud, September 20, 2022](https://www.darktrace.com/blog/modern-extortion-detecting-data-theft-from-the-cloud)
