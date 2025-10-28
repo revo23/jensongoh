@@ -9,6 +9,7 @@
 - [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)  [IR + PCAP hex editing/file extraction]
 - [Cowrie Honeypot](https://github.com/revo23/STINGAR-Honeypot/blob/main/README.md) [CTI]
 - Detection Engineering with Wazuh [Endpoint] (in progress)
+- RecordedFuture and Yara/Sigma Rules [CTI]
 - Snort/Suricata [NIDS/IPS] (in progress)
 
 
