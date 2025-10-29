@@ -11,6 +11,7 @@
 - [RecordedFuture and Yara Rules](https://github.com/revo23/RecordedFuture-and-Yara-Rules) [Hunting]
 - Detection Engineering with Wazuh [EDR] (in progress)
 - Snort/Suricata [NIDS/IPS] (in progress)
+- Fraud data wrangling CSV using Python
 
 
 **Blog Posts**
