@@ -8,7 +8,7 @@
 - [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)  [Tripwire]
 - [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)  [IR + PCAP hex editing/file extraction]
 - [Cowrie Honeypot](https://github.com/revo23/STINGAR-Honeypot/blob/main/README.md) [CTI]
-- RecordedFuture and Yara/Sigma Rules [CTI]
+- [RecordedFuture and Yara Rules](https://github.com/revo23/RecordedFuture-and-Yara-Rules) [CTI]
 - Detection Engineering with Wazuh [EDR] (in progress)
 - Snort/Suricata [NIDS/IPS] (in progress)
 
