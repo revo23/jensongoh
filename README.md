@@ -12,7 +12,7 @@
 - Detection Engineering with Wazuh [EDR] (in progress)
 - Snort/Suricata [NIDS/IPS] (in progress)
 - Data wrangling using Python with API keys (in progress)
-- NPM packages detection using Snyk 
+- NPM packages detection using Snyk (in progress)
 
 
 **Blog Posts**
