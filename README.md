@@ -11,8 +11,8 @@
 - [RecordedFuture and Yara Rules](https://github.com/revo23/RecordedFuture-and-Yara-Rules) [Hunting]
 - Detection Engineering with Wazuh [EDR] (in progress)
 - Snort/Suricata [NIDS/IPS] (in progress)
-- Data wrangling using Python with API keys (in progress)
-- NPM packages detection using Snyk (in progress)
+- Data wrangling using Python with API keys [Automation] (in progress)
+- NPM packages detection using Snyk [Supply Chain] (in progress)
 
 
 **Blog Posts**
