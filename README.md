@@ -13,6 +13,7 @@
 - Snort/Suricata [NIDS/IPS] (in progress)
 - Data Wrangling using Python with API Keys [Automation] (in progress)
 - NPM Packages Detection with Snyk [Supply Chain] (in progress)
+- NVIDIA Morpheus (in progress)
 
 
 **Blog Posts**
