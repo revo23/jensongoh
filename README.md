@@ -57,7 +57,7 @@ SC-200: [Verify](https://learn.microsoft.com/api/credentials/share/en-us/ShuhChi
 ISC2
 CC: [Verify](https://www.credly.com/badges/e5ebb1da-988b-4b55-9134-0c8e221e1b88/public_url) | [Learn](https://www.isc2.org/certifications/cc) 
 
-
+Burp Suite Certified Practitioner (in progress)  
 
 
 
