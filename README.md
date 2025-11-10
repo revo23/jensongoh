@@ -12,7 +12,7 @@
 - Cyber Fraud Intelligence Dashboard (Python + ELK)
 - Detection Engineering with Wazuh [EDR] (in progress)
 - Snort/Suricata [NIDS/IPS] (in progress)
-- Data Wrangling using Python with API [Automation (in progress)
+- [Data Wrangling using Python with API](https://github.com/revo23/Data-Wrangling-using-Python-with-API) 
 - NPM Packages Detection with Snyk [Supply Chain] (in progress)
 - NVIDIA Morpheus (in progress)
 
