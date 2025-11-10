@@ -13,7 +13,7 @@
 - Detection Engineering with Wazuh [EDR] (in progress)
 - Snort/Suricata [NIDS/IPS] (in progress)
 - [Data Wrangling using Python with API](https://github.com/revo23/Data-Wrangling-using-Python-with-API) 
-- NPM Packages Detection with Snyk [Supply Chain] (in progress)
+- NPM Packages Detection with Snyk [Hunting/Supply Chain] (in progress)
 - NVIDIA Morpheus SDK (in progress)
 
 
