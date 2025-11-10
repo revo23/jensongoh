@@ -9,7 +9,7 @@
 - [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)  [IR + PCAP hex editing/file extraction]
 - [Cowrie Honeypot](https://github.com/revo23/STINGAR-Honeypot/blob/main/README.md) [CTI]
 - [RecordedFuture and Yara Rules](https://github.com/revo23/RecordedFuture-and-Yara-Rules) [Hunting]
-- Cyber Fraud Intelligence Dashboard (Python + ELK)
+- Cyber Fraud Intelligence Dashboard ELK [CTI]
 - Detection Engineering with Wazuh [EDR] (in progress)
 - Snort/Suricata [NIDS/IPS] (in progress)
 - [Data Wrangling using Python with API](https://github.com/revo23/Data-Wrangling-using-Python-with-API) 
