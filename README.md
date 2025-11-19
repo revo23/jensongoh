@@ -42,7 +42,7 @@
 | Degree | Major | Institution |
 |-----------|-----------|-----------|
 | Master of Engineering | Cybersecurity | Duke University |
-| Bachelors of Technology | Mechanical Engineering | National University of Singapore (NUS) |
+| Bachelor of Technology | Mechanical Engineering | National University of Singapore (NUS) |
 
 **Certifications**
 
