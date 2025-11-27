@@ -10,7 +10,7 @@
 - [Cowrie Honeypot](https://github.com/revo23/STINGAR-Honeypot/blob/main/README.md) [CTI]
 - [RecordedFuture and Yara Rules](https://github.com/revo23/RecordedFuture-and-Yara-Rules) [Hunting]
 - [Cyber Intelligence Dashboard ELK](https://github.com/revo23/Cyber-Intelligence-Dashboard-ELK) [CTI]
-- Detection Engineering with Wazuh [EDR](https://github.com/revo23/Detection-Engineering-with-Wazuh)
+- [Detection Engineering with Wazuh EDR](https://github.com/revo23/Detection-Engineering-with-Wazuh)
 - Snort/Suricata [NIDS/IPS] (in progress)
 - [Data Wrangling using Python with API](https://github.com/revo23/Data-Wrangling-using-Python-with-API) 
 - NPM Packages Detection with Snyk [Hunting/Supply Chain] (in progress)
