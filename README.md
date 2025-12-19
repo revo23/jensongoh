@@ -8,7 +8,7 @@
 - [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)  [Tripwire]
 - [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)  [IR + PCAP hex editing/file extraction]
 - [Cowrie Honeypot](https://github.com/revo23/STINGAR-Honeypot/blob/main/README.md) [CTI]
-- ML-Driven Network Attack Detection [AI/ML]
+- [ML-Driven Network Attack Detection](https://github.com/revo23/ML-Driven-Network-Attack-Detection) [AI/ML]
 - [RecordedFuture and Yara Rules](https://github.com/revo23/RecordedFuture-and-Yara-Rules) [Hunting]
 - [Cyber Intelligence Dashboard ELK](https://github.com/revo23/Cyber-Intelligence-Dashboard-ELK) [CTI]
 - [Detection Engineering with Wazuh](https://github.com/revo23/Detection-Engineering-with-Wazuh) [EDR]
