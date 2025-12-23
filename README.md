@@ -4,7 +4,7 @@
 
 
 - [ML-Driven Network Attack Detection](https://github.com/revo23/ML-Driven-Network-Attack-Detection) [AI/ML]
-- Agentic AI SOC [AI/MLSecOps] (in progress)
+- Agentic AI SOC [Automation] (in progress)
 - [Sigma Rules in Splunk](https://github.com/revo23/Sigma-Rules-in-Splunk/blob/main/README.md)  [SIEM Engineering]
 - [Canary Tokens in Bank Website](https://github.com/revo23/Canary-Tokens-in-Bank-Website)  [Tripwire]
 - [Redacted Interview Challenge](https://github.com/revo23/LSEG-Interview-Challenge)  [IR + PCAP hex editing/file extraction]
