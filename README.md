@@ -63,7 +63,7 @@ Burp Suite Certified Practitioner (in progress)
 
 CCSK/AWS Security Specialty (in progress)  
 
-Deepleaning.ai - Agentic AI (in progress)
+Deeplearning.ai - Agentic AI (in progress)
 
 
 
