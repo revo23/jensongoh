@@ -3,6 +3,7 @@
 **Cybersecurity Projects**
 
 
+- [UEBA from Windows / Okta / AWS Auth Logs] [Claude Code]
 - [ML-Driven Network Attack Detection](https://github.com/revo23/ML-Driven-Network-Attack-Detection) [Supervised ML]
 - [AI SOC Agents](https://github.com/revo23/AI-SOC-Agents) [Automation]
 - [Sigma Rules in Splunk](https://github.com/revo23/Sigma-Rules-in-Splunk/blob/main/README.md)  [SIEM Engineering]
