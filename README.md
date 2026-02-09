@@ -14,7 +14,7 @@
 - [RecordedFuture and Yara Rules](https://github.com/revo23/RecordedFuture-and-Yara-Rules) [Hunting]
 - [Cyber Intelligence Dashboard ELK](https://github.com/revo23/Cyber-Intelligence-Dashboard-ELK) [CTI]
 - [Detection Engineering with Wazuh](https://github.com/revo23/Detection-Engineering-with-Wazuh) [EDR]
-- EDR PoC with Unsupervised ML detection engine
+- EDR PoC with Unsupervised ML Detection Engine
 - Snort/Suricata [NIDS/IPS] (in progress)
 - [Data Wrangling using Python with API](https://github.com/revo23/Data-Wrangling-using-Python-with-API) 
 - NPM Packages Detection with Snyk [Hunting/Supply Chain] (in progress)
