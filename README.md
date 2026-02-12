@@ -3,7 +3,7 @@
 **Cybersecurity Projects**
 
 
-- [UEBA from Windows / Okta / AWS Auth Logs](https://github.com/revo23/UEBA/tree/main) [Unsupervised ML/Security Review]
+- [UEBA from Windows / Okta / AWS Auth Logs](https://github.com/revo23/UEBA/tree/main) [Unsupervised ML/Security Review CI/CD]
 - [PKI CA Lab](https://github.com/revo23/PKICA)
 - [ML-Driven Network Attack Detection](https://github.com/revo23/ML-Driven-Network-Attack-Detection) [Supervised ML]
 - [AI SOC Agents](https://github.com/revo23/AI-SOC-Agents) [Automation]
