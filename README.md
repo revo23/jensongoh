@@ -4,7 +4,6 @@
 
 
 - [UEBA from Windows / Okta / AWS Auth Logs](https://github.com/revo23/UEBA/tree/main) [Unsupervised ML/Security Review CI/CD]
-- [PKI CA Lab](https://github.com/revo23/PKICA)
 - [ML-Driven Network Attack Detection](https://github.com/revo23/ML-Driven-Network-Attack-Detection) [Supervised ML]
 - [AI SOC Agents](https://github.com/revo23/AI-SOC-Agents) [Automation]
 - [Sigma Rules in Splunk](https://github.com/revo23/Sigma-Rules-in-Splunk/blob/main/README.md)  [SIEM Engineering]
@@ -19,6 +18,7 @@
 - [Data Wrangling using Python with API](https://github.com/revo23/Data-Wrangling-using-Python-with-API) 
 - NPM Packages Detection with Snyk [Hunting/Supply Chain] (in progress)
 - NVIDIA Morpheus SDK (in progress)
+- [PKI CA Lab](https://github.com/revo23/PKICA)
 
 
 **Blog Posts**
