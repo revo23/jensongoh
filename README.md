@@ -16,7 +16,7 @@
 - [EDR PoC with Unsupervised ML Detection Engine](https://github.com/revo23/EDRPoC)
 - Snort/Suricata [NIDS/IPS] (in progress)
 - [Data Wrangling using Python with API](https://github.com/revo23/Data-Wrangling-using-Python-with-API) 
-- NPM Packages Detection with Snyk [Hunting/Supply Chain] (in progress)
+- NPM Packages Detection with Snyk [Supply Chain] (in progress)
 - NVIDIA Morpheus SDK (in progress)
 - [PKI CA Lab](https://github.com/revo23/PKICA)
 
